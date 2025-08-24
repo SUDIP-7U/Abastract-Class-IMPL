@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Abastract Impl</string>
+    <string name="human">Human 👨</string>
+    <string name="monkey">Monkey 🐒</string>
+    <string name="choose_an_animal">Choose an animal!</string>
+    <string name="dog">Dog 🐶</string>
+</resources>
